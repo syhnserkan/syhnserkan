@@ -17,6 +17,7 @@
 
 - 🧑‍💼 **Frontend Developer** with ~5 years of experience at **Beyn Technology**, building scalable web applications.
 - 🚀 **Indie developer** crafting **AI-powered mobile apps** in my spare time.
+- 🤖 I **integrate AI/ML APIs** — LLMs and image generation — into real, shipped products.
 - 📱 Published apps on the **App Store** — building products end-to-end, from idea to release.
 - 🎓 B.Sc. in **Computer Engineering**, İstanbul Arel University (2021).
 - 📍 Based in **İstanbul, Türkiye**.
