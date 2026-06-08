@@ -63,11 +63,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syhnserkan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://img.shields.io/github/followers/syhnserkan?label=Followers&style=for-the-badge&logo=github&color=blueviolet" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Repositories-48-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Apps_on_App_Store-2-FA7343?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store apps"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syhnserkan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syhnserkan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
