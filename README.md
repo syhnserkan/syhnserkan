@@ -53,10 +53,10 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **🎬 Omnishot** | AI-powered iOS app — *[short tagline: what it does]* | Swift / iOS |
-| **💍 EverAfter** | AI-powered mobile app — *[short tagline: what it does]* | React Native / TypeScript |
+| **🎬 [Omnishot](https://apps.apple.com/tr/app/omnishot-dual-camera-recorder/id6766044455)** | Dual camera recorder that captures portrait (9:16) and landscape (16:9) in a single take — multi-cam up to 4 lenses, 4K 60fps, ProRes, no watermark. | Swift / iOS |
+| **💍 [EverAfter](https://apps.apple.com/tr/app/everafter-ai-couple-photos/id6760176895)** | AI couple-photo app that turns your photos into cinematic art — weddings, romance & travel scenes across 50+ AI styles. | React Native / iOS |
 
-> 📲 Both apps are live on the **App Store**. *(Add your App Store links here.)*
+> 📲 Both apps are live on the **App Store** — tap a title above to view.
 
 ---
 
